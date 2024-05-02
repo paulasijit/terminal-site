@@ -1,7 +1,5 @@
 package structDefination
 
-import "fmt"
-
 type Author struct {
 	FirstName string
 	LastName  string
